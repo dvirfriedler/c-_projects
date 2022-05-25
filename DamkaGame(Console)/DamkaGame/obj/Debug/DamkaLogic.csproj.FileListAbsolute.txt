@@ -1,0 +1,12 @@
+/Users/dvirfriedler/Projects/DamkaGame/DamkaGame/obj/Debug/DamkaLogic.csproj.AssemblyReference.cache
+/Users/dvirfriedler/Projects/DamkaGame/DamkaGame/obj/Debug/DamkaLogic.csproj.CoreCompileInputs.cache
+/Users/dvirfriedler/Projects/DamkaGame/DamkaGame/obj/Debug/DamkaGame.pdb
+/Users/dvirfriedler/Projects/DamkaGame/DamkaGame/bin/Debug/DamkaGame.pdb
+/Users/dvirfriedler/Projects/DamkaGame/DamkaGame/bin/Debug/DamkaGame.dll
+/Users/dvirfriedler/Projects/DamkaGame/DamkaGame/obj/Debug/DamkaGame.dll
+/Users/dvirfriedler/Desktop/CV and more/git_projects/DamkaGame(Console)/DamkaGame(Console)/DamkaGame/bin/Debug/DamkaGame.dll
+/Users/dvirfriedler/Desktop/CV and more/git_projects/DamkaGame(Console)/DamkaGame(Console)/DamkaGame/bin/Debug/DamkaGame.pdb
+/Users/dvirfriedler/Desktop/CV and more/git_projects/DamkaGame(Console)/DamkaGame(Console)/DamkaGame/obj/Debug/DamkaLogic.csproj.AssemblyReference.cache
+/Users/dvirfriedler/Desktop/CV and more/git_projects/DamkaGame(Console)/DamkaGame(Console)/DamkaGame/obj/Debug/DamkaLogic.csproj.CoreCompileInputs.cache
+/Users/dvirfriedler/Desktop/CV and more/git_projects/DamkaGame(Console)/DamkaGame(Console)/DamkaGame/obj/Debug/DamkaGame.dll
+/Users/dvirfriedler/Desktop/CV and more/git_projects/DamkaGame(Console)/DamkaGame(Console)/DamkaGame/obj/Debug/DamkaGame.pdb

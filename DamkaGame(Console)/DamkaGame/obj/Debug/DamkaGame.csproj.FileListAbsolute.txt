@@ -1,0 +1,6 @@
+/Users/dvirfriedler/Projects/DamkaGame/DamkaGame/bin/Debug/DamkaGame.exe
+/Users/dvirfriedler/Projects/DamkaGame/DamkaGame/bin/Debug/DamkaGame.pdb
+/Users/dvirfriedler/Projects/DamkaGame/DamkaGame/obj/Debug/DamkaGame.csproj.AssemblyReference.cache
+/Users/dvirfriedler/Projects/DamkaGame/DamkaGame/obj/Debug/DamkaGame.csproj.CoreCompileInputs.cache
+/Users/dvirfriedler/Projects/DamkaGame/DamkaGame/obj/Debug/DamkaGame.exe
+/Users/dvirfriedler/Projects/DamkaGame/DamkaGame/obj/Debug/DamkaGame.pdb

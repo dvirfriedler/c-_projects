@@ -1,0 +1,18 @@
+/Users/dvirfriedler/Projects/DamkaGame/DamkaUI/obj/anycpu/Debug/DamkaUI.csproj.AssemblyReference.cache
+/Users/dvirfriedler/Projects/DamkaGame/DamkaUI/obj/anycpu/Debug/DamkaUI.csproj.CoreCompileInputs.cache
+/Users/dvirfriedler/Projects/DamkaGame/DamkaUI/bin/Debug/DamkaUI.exe
+/Users/dvirfriedler/Projects/DamkaGame/DamkaUI/bin/Debug/DamkaUI.pdb
+/Users/dvirfriedler/Projects/DamkaGame/DamkaUI/bin/Debug/DamkaGame.dll
+/Users/dvirfriedler/Projects/DamkaGame/DamkaUI/bin/Debug/DamkaGame.pdb
+/Users/dvirfriedler/Projects/DamkaGame/DamkaUI/obj/anycpu/Debug/DamkaUI.csproj.CopyComplete
+/Users/dvirfriedler/Projects/DamkaGame/DamkaUI/obj/anycpu/Debug/DamkaUI.exe
+/Users/dvirfriedler/Projects/DamkaGame/DamkaUI/obj/anycpu/Debug/DamkaUI.pdb
+/Users/dvirfriedler/Desktop/CV and more/git_projects/DamkaGame(Console)/DamkaGame(Console)/DamkaUI/bin/Debug/DamkaUI.exe
+/Users/dvirfriedler/Desktop/CV and more/git_projects/DamkaGame(Console)/DamkaGame(Console)/DamkaUI/bin/Debug/DamkaUI.pdb
+/Users/dvirfriedler/Desktop/CV and more/git_projects/DamkaGame(Console)/DamkaGame(Console)/DamkaUI/bin/Debug/DamkaGame.dll
+/Users/dvirfriedler/Desktop/CV and more/git_projects/DamkaGame(Console)/DamkaGame(Console)/DamkaUI/bin/Debug/DamkaGame.pdb
+/Users/dvirfriedler/Desktop/CV and more/git_projects/DamkaGame(Console)/DamkaGame(Console)/DamkaUI/obj/anycpu/Debug/DamkaUI.csproj.AssemblyReference.cache
+/Users/dvirfriedler/Desktop/CV and more/git_projects/DamkaGame(Console)/DamkaGame(Console)/DamkaUI/obj/anycpu/Debug/DamkaUI.csproj.CoreCompileInputs.cache
+/Users/dvirfriedler/Desktop/CV and more/git_projects/DamkaGame(Console)/DamkaGame(Console)/DamkaUI/obj/anycpu/Debug/DamkaUI.csproj.CopyComplete
+/Users/dvirfriedler/Desktop/CV and more/git_projects/DamkaGame(Console)/DamkaGame(Console)/DamkaUI/obj/anycpu/Debug/DamkaUI.exe
+/Users/dvirfriedler/Desktop/CV and more/git_projects/DamkaGame(Console)/DamkaGame(Console)/DamkaUI/obj/anycpu/Debug/DamkaUI.pdb
