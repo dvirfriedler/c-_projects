@@ -1,0 +1,12 @@
+/Users/dvirfriedler/Projects/Garage/GarageLogic/bin/Debug/GarageLogic.dll
+/Users/dvirfriedler/Projects/Garage/GarageLogic/bin/Debug/GarageLogic.pdb
+/Users/dvirfriedler/Projects/Garage/GarageLogic/obj/anycpu/Debug/GarageLogic.csproj.AssemblyReference.cache
+/Users/dvirfriedler/Projects/Garage/GarageLogic/obj/anycpu/Debug/GarageLogic.csproj.CoreCompileInputs.cache
+/Users/dvirfriedler/Projects/Garage/GarageLogic/obj/anycpu/Debug/GarageLogic.dll
+/Users/dvirfriedler/Projects/Garage/GarageLogic/obj/anycpu/Debug/GarageLogic.pdb
+/Users/dvirfriedler/Desktop/CV and more/git_projects/Garage/GarageLogic/bin/Debug/GarageLogic.dll
+/Users/dvirfriedler/Desktop/CV and more/git_projects/Garage/GarageLogic/bin/Debug/GarageLogic.pdb
+/Users/dvirfriedler/Desktop/CV and more/git_projects/Garage/GarageLogic/obj/anycpu/Debug/GarageLogic.csproj.AssemblyReference.cache
+/Users/dvirfriedler/Desktop/CV and more/git_projects/Garage/GarageLogic/obj/anycpu/Debug/GarageLogic.csproj.CoreCompileInputs.cache
+/Users/dvirfriedler/Desktop/CV and more/git_projects/Garage/GarageLogic/obj/anycpu/Debug/GarageLogic.dll
+/Users/dvirfriedler/Desktop/CV and more/git_projects/Garage/GarageLogic/obj/anycpu/Debug/GarageLogic.pdb

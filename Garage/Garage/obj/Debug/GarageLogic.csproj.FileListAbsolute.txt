@@ -1,0 +1,1 @@
+/Users/dvirfriedler/Projects/Garage/Garage/obj/Debug/GarageLogic.csproj.CoreCompileInputs.cache

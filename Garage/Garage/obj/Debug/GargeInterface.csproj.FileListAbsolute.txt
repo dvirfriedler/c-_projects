@@ -1,0 +1,3 @@
+/Users/dvirfriedler/Projects/Garage/Garage/obj/Debug/GargeInterface.csproj.CoreCompileInputs.cache
+/Users/dvirfriedler/Desktop/CV and more/git_projects/Garage/Garage/obj/Debug/GargeInterface.csproj.AssemblyReference.cache
+/Users/dvirfriedler/Desktop/CV and more/git_projects/Garage/Garage/obj/Debug/GargeInterface.csproj.CoreCompileInputs.cache
