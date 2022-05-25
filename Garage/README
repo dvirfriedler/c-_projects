@@ -1,13 +1,29 @@
-This project is meant to help "Gragae" manage the different vicheles that he suppose to serve.
+This project is meant to help "Gragae" manage the different vehicles that he supposes
+to serve.
+
+I implemented this project in C#  using the concepts of OOP and polymorphism while
+keeping a high level of coding style.
+
+The project builds such that the Interface and the Logic of the project are
+separate.
+
+Moreover, the project structure enables to add of new types of vehicles while making
+a very small change in the interface and no changes in the logic!
+
+
+In addition to  the project, there is a pdf file that  presents a diagram
+of the connection between the different objects in the project.
+
+Use "Gargage.sln" to run the project.
 
 
 
-I implemented this project in C#  using the concepts of OOP and polymorphism and while keeping hige level of coding style.
-
-The project buid such that the Interface and the Logic of the project is saperte.
-
-More over the project structure enable to add new types of vicheles while make a very small changes in the interface and no changes at the logic!
 
 
 
-In addition to  the project, there is a pdf file that  presnt a diagram of the connection between the different objects in the project.
+
+	 
+
+	 
+	 
+	 
