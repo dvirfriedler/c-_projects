@@ -1,0 +1,30 @@
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\B22 Ex04 DvirFriedler 318751922 ShayTsadik 208996314\CheckersMenu\bin\Debug\CheckersMenu.exe.config
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\B22 Ex04 DvirFriedler 318751922 ShayTsadik 208996314\CheckersMenu\bin\Debug\CheckersMenu.exe
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\B22 Ex04 DvirFriedler 318751922 ShayTsadik 208996314\CheckersMenu\bin\Debug\CheckersMenu.pdb
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\B22 Ex04 DvirFriedler 318751922 ShayTsadik 208996314\CheckersMenu\bin\Debug\DamkaGame.dll
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\B22 Ex04 DvirFriedler 318751922 ShayTsadik 208996314\CheckersMenu\bin\Debug\DamkaGame.pdb
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\B22 Ex04 DvirFriedler 318751922 ShayTsadik 208996314\CheckersMenu\obj\Debug\CheckersMenu.csproj.AssemblyReference.cache
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\B22 Ex04 DvirFriedler 318751922 ShayTsadik 208996314\CheckersMenu\obj\Debug\CheckersMenu.csproj.SuggestedBindingRedirects.cache
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\B22 Ex04 DvirFriedler 318751922 ShayTsadik 208996314\CheckersMenu\obj\Debug\CheckersMenu.FormGame.resources
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\B22 Ex04 DvirFriedler 318751922 ShayTsadik 208996314\CheckersMenu\obj\Debug\CheckersMenu.GameSettings.resources
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\B22 Ex04 DvirFriedler 318751922 ShayTsadik 208996314\CheckersMenu\obj\Debug\CheckersMenu.Properties.Resources.resources
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\B22 Ex04 DvirFriedler 318751922 ShayTsadik 208996314\CheckersMenu\obj\Debug\CheckersMenu.csproj.GenerateResource.cache
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\B22 Ex04 DvirFriedler 318751922 ShayTsadik 208996314\CheckersMenu\obj\Debug\CheckersMenu.csproj.CoreCompileInputs.cache
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\B22 Ex04 DvirFriedler 318751922 ShayTsadik 208996314\CheckersMenu\obj\Debug\CheckersMenu.csproj.CopyComplete
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\B22 Ex04 DvirFriedler 318751922 ShayTsadik 208996314\CheckersMenu\obj\Debug\CheckersMenu.exe
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\B22 Ex04 DvirFriedler 318751922 ShayTsadik 208996314\CheckersMenu\obj\Debug\CheckersMenu.pdb
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\Checkers(Windows-app)\CheckersMenu\bin\Debug\CheckersMenu.exe.config
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\Checkers(Windows-app)\CheckersMenu\bin\Debug\CheckersMenu.exe
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\Checkers(Windows-app)\CheckersMenu\bin\Debug\CheckersMenu.pdb
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\Checkers(Windows-app)\CheckersMenu\bin\Debug\DamkaGame.dll
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\Checkers(Windows-app)\CheckersMenu\bin\Debug\DamkaGame.pdb
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\Checkers(Windows-app)\CheckersMenu\obj\Debug\CheckersMenu.csproj.AssemblyReference.cache
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\Checkers(Windows-app)\CheckersMenu\obj\Debug\CheckersMenu.csproj.SuggestedBindingRedirects.cache
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\Checkers(Windows-app)\CheckersMenu\obj\Debug\CheckersMenu.FormGame.resources
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\Checkers(Windows-app)\CheckersMenu\obj\Debug\CheckersMenu.GameSettings.resources
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\Checkers(Windows-app)\CheckersMenu\obj\Debug\CheckersMenu.Properties.Resources.resources
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\Checkers(Windows-app)\CheckersMenu\obj\Debug\CheckersMenu.csproj.GenerateResource.cache
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\Checkers(Windows-app)\CheckersMenu\obj\Debug\CheckersMenu.csproj.CoreCompileInputs.cache
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\Checkers(Windows-app)\CheckersMenu\obj\Debug\CheckersMenu.csproj.CopyComplete
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\Checkers(Windows-app)\CheckersMenu\obj\Debug\CheckersMenu.exe
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\Checkers(Windows-app)\CheckersMenu\obj\Debug\CheckersMenu.pdb

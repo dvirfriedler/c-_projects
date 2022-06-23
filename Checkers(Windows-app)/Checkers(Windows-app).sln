@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckersMenu", "CheckersMenu\CheckersMenu.csproj", "{51E32147-37C7-411A-926B-0CCBA85339B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckersLogic", "DamkaLogic\CheckersLogic.csproj", "{5CD529F5-65D7-4FD6-A6E0-8E231869A5B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{051F64A9-3854-4EBC-ADE4-8516D3B9495F}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		..\PHOTOS\black.png = ..\PHOTOS\black.png
+		..\PHOTOS\Black_King.png = ..\PHOTOS\Black_King.png
+		..\PHOTOS\white.png = ..\PHOTOS\white.png
+		..\PHOTOS\white_king.png = ..\PHOTOS\white_king.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51E32147-37C7-411A-926B-0CCBA85339B2}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{51E32147-37C7-411A-926B-0CCBA85339B2}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{51E32147-37C7-411A-926B-0CCBA85339B2}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{51E32147-37C7-411A-926B-0CCBA85339B2}.Release|anycpu.Build.0 = Release|Any CPU
+		{5CD529F5-65D7-4FD6-A6E0-8E231869A5B9}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{5CD529F5-65D7-4FD6-A6E0-8E231869A5B9}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{5CD529F5-65D7-4FD6-A6E0-8E231869A5B9}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{5CD529F5-65D7-4FD6-A6E0-8E231869A5B9}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6953F90E-1915-4DE7-9AA7-52B271E894B1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\B22 Ex04 DvirFriedler 318751922 ShayTsadik 208996314\DamkaLogic\bin\Debug\DamkaGame.dll
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\B22 Ex04 DvirFriedler 318751922 ShayTsadik 208996314\DamkaLogic\bin\Debug\DamkaGame.pdb
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\B22 Ex04 DvirFriedler 318751922 ShayTsadik 208996314\DamkaLogic\obj\Debug\CheckersLogic.csproj.AssemblyReference.cache
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\B22 Ex04 DvirFriedler 318751922 ShayTsadik 208996314\DamkaLogic\obj\Debug\CheckersLogic.csproj.CoreCompileInputs.cache
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\B22 Ex04 DvirFriedler 318751922 ShayTsadik 208996314\DamkaLogic\obj\Debug\DamkaGame.dll
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\B22 Ex04 DvirFriedler 318751922 ShayTsadik 208996314\DamkaLogic\obj\Debug\DamkaGame.pdb
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\Checkers(Windows-app)\DamkaLogic\bin\Debug\DamkaGame.dll
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\Checkers(Windows-app)\DamkaLogic\bin\Debug\DamkaGame.pdb
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\Checkers(Windows-app)\DamkaLogic\obj\Debug\CheckersLogic.csproj.AssemblyReference.cache
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\Checkers(Windows-app)\DamkaLogic\obj\Debug\CheckersLogic.csproj.CoreCompileInputs.cache
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\Checkers(Windows-app)\DamkaLogic\obj\Debug\DamkaGame.dll
+C:\Users\dvirf\OneDrive\שולחן העבודה\C#Projects\Checkers(Windows-app)\DamkaLogic\obj\Debug\DamkaGame.pdb
